@@ -1,6 +1,5 @@
 # Uri-Online-Judge
 Códigos de exercícios resolvidos do URI.
-
-Logo Logo adiciono todos os exercicios aqui.
+Usando o site para desenvolver as minhas habilidades de solução de problemas
 
 Meu Perfil: https://www.urionlinejudge.com.br/judge/pt/profile/182391
